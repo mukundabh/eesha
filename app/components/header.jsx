@@ -11,7 +11,7 @@ define(function (require) {
   return React.createClass({
 
     handleSelect: () => {
-      window.alert('Eesha');
+      window.alert('Eesha header');
     },
 
     render: function () {
